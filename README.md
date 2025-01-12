@@ -1,7 +1,5 @@
 <h1>What Was Learned?</h1>
 
----
-
 <h2>
     Create Manageable CSS
 </h2>
